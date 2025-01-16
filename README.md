@@ -1,1 +1,1 @@
-# mosquito-classification
+Shows how I trained and tested my data using pre-trained VGG16 as the feature extractor and Random Forest as the classifier to classifiy images of mosquitoes (aedes aegypti, aedes albopictus, and culex quinquefasciatus).
